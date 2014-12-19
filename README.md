@@ -1,4 +1,4 @@
-Prime numbers multiplication table
+Prime Numbers Multiplication Table
 =====================
 
 **Objective**
