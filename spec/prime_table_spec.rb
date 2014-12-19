@@ -35,7 +35,7 @@ describe 'Prime.each' do
 end
 
 describe 'Prime.first' do
-  it 'should return array of 20 prime numbers' do
+  it 'should return prime numbers array' do
     expect(Prime.first(10)).to eq [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
   end
 end
